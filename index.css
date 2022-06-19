@@ -1,0 +1,73 @@
+body {
+    background-color: gray;
+}
+
+#header {
+    background-color: grey;
+    text-align: center;
+    text-shadow: white 2px 3px 0px;
+}
+
+#first {
+    background-color: hotpink;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+#menu {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+
+#search {
+    display: flex;
+    gap: 20px;
+}
+
+#second {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    gap: 10px;
+}
+
+#article {
+    padding: 10px;
+    width: 75%;
+    background-color: whitesmoke;
+
+
+}
+
+h3 {
+    text-align: center;
+    font: bold italic 140% serif;
+}
+
+p {
+    text-align: justify;
+    margin-top: 10px;
+
+
+}
+
+#related li {
+    margin-top: 17px;
+}
+
+#related {
+    background-color: hotpink;
+}
+
+#Copyright {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-style: italic;
+}
